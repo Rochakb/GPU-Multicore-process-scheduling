@@ -2,6 +2,7 @@
 Used the multi-queue scheduling algorithm with load balancing, a multiprocessor variant of the First Come First Serve (FCFS) schedulingalgorithm. There is NO pre-emption.
 
 Input
+
 •N: Number of processes
 •M: Number of cores
 •arrival_times: An array containing N arrival times
@@ -18,6 +19,7 @@ Input
             7 3
             
 Constraints
+
 • 1 ≤ N ≤ 20000
 • 1 ≤ M ≤ 10000
 • 1 ≤ all arrival time values and execution time values ≤ 1000
