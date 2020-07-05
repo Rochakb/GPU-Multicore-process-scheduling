@@ -6,6 +6,7 @@ Input
 •M: Number of cores
 •arrival_times: An array containing N arrival times
 •burst_times: An array containing N execution/burst times
+            
             8 4
             1 4
             1 5
@@ -15,7 +16,7 @@ Input
             3 4
             3 8
             7 3
-
+            
 Constraints
 • 1 ≤ N ≤ 20000
 • 1 ≤ M ≤ 10000
